@@ -8,11 +8,11 @@
 
 🛠**Tech Stack:**
 * Languages: Python, R, SQL
-* Libraries: pandas, NumPy, Matplotlib, Tensorflow, sklearn
+* Libraries: pandas, NumPy, Scipy, Matplotlib, sklearn
 * Frameworks/Tools: Hadoop, Jupyter, Tableau, Power BI
 
 🌱**I'm currently learning:**
-* TensorFlow and Keras for neural networks
+* TensorFlow for neural networks
 
 📈**I'm keen on:**
 * Data-driven problem-solving for real-world applications
