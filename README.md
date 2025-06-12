@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Emily Hong
+# 👋 Hi, I'm Emily
 
 Welcome to my GitHub!
 
